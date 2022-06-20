@@ -261,4 +261,4 @@ class AntColony:
 testGraph = Graph(5)
 # testGraph.print_graph()
 testColony = AntColony(500)
-testColony.run(testGraph, 0, 4, 00)
+testColony.run(testGraph, 0, 4, 500)
